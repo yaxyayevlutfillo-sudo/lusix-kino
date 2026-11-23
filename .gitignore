@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.db
+.env
+.DS_Store
+bot_config.json
+secret.key
+uploads/
+cookies.txt
+lusix-kino-backup.tar.gz
+
+*.tar.gz
+render_old.yaml
